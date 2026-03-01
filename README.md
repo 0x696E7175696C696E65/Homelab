@@ -41,10 +41,9 @@ Scripts are organized by category and platform. Each one is documented with usag
 Homelab/
 ├── Proxmox/
 │   └── lxc scripts/
-│       └── ubuntu-lxc.sh       # Ubuntu LXC/VM first-time setup
-├── compose/                     # Coming soon
-│   └── ...
-└── README.md
+│       └── ubuntu  
+              └── ubuntu-lxc.sh
+              └── describe-ubuntu-lxc.sh.md   
 ```
 
 ---
@@ -52,6 +51,8 @@ Homelab/
 ## Proxmox
 
 Scripts for provisioning and configuring Proxmox LXC containers and VMs.
+
+- [Ubuntu](https://github.com/0x696E7175696C696E65/Homelab/tree/main/Proxmox/lxc%20scripts/ubuntu) Read the "describe-ubuntu-lxc.sh.md" file to understand what the script does
 
 <br/>
 
@@ -70,9 +71,8 @@ Scripts for provisioning and configuring Proxmox LXC containers and VMs.
 
 ## Notes
 
-- All scripts are tested on **Proxmox VE 9.x** with **Ubuntu 24.04 LTS** LXC containers
-- Scripts redirect all package manager output to a log file — the terminal only shows progress
-- If a step fails, the log path is printed so you can debug without re-running everything
+- All scripts are tested on **Proxmox VE 9.x**
+
 
 ---
 
