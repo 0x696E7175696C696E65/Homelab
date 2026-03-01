@@ -19,7 +19,7 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
 ![Shell](https://img.shields.io/badge/Shell-121011?style=flat-square&logo=gnu-bash&logoColor=white)
-![License](https://img.shields.io/badge/License-MIT-6366f1?style=flat-square)
+![License](https://img.shields.io/badge/License-GNUGeneralPublicLicenseV3-6366f1?style=flat-square)
 
 <br/>
 
