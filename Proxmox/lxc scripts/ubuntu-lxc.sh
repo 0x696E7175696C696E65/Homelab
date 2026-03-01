@@ -5,7 +5,7 @@
 #  Target : Ubuntu 22.04 / 24.04 LXC or VM
 #  Installs: system deps · Docker CE · Compose V2 · aliases
 #
-#  Usage: bash pve-ubuntu-setup.sh
+#  Usage: sudo bash pve-ubuntu-setup.sh
 # ================================================================
 
 set -euo pipefail
